@@ -8,4 +8,4 @@ projects/__pycache__
 projects/migrations
 .DS_Store
 db.sqlite3
-.vs
+.vs/
