@@ -3,4 +3,5 @@ bug_tracker.sublime-workspace
 bug_tracker/__pycache__
 pages/migrations
 .DS_Store
+.vs/
  
