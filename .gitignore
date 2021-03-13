@@ -1,6 +1,11 @@
 bug_tracker.sublime-project
 bug_tracker.sublime-workspace
 bug_tracker/__pycache__
+bug_tracker/migrations
+pages/__pycache__
 pages/migrations
+projects/__pycache__
+projects/migrations
 .DS_Store
+db.sqlite3
  
